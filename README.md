@@ -6,8 +6,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>&nbsp;
 </div>
 
 ## 💻 &nbsp;Personal Skills
