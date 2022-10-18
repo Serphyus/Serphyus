@@ -5,14 +5,18 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <div href="https://github.com/Serphyus#gh-dark-mode-only">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
-  </div>
-  <div href="https://github.com/Serphyus#gh-light-mode-only">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>&nbsp;
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>&nbsp;
-  </div>
+  <a href="https://github.com/Serphyus#gh-dark-mode-only">
+    <div>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
+    </div>
+  </a>
+  <a href="https://github.com/Serphyus#gh-light-mode-only">
+    <div>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>&nbsp;
+    </div>
+  </a>
 </div>
 
 ## 💻 &nbsp;Personal Skills
