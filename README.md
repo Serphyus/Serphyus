@@ -4,18 +4,20 @@
 - 🔭 I’m currently looking for a good night sleep
 
 ## ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/Serphyus#gh-dark-mode-only">
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
-  </div>
-</a>
-<a href="https://github.com/Serphyus#gh-light-mode-only">
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>&nbsp;
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>&nbsp;
-  </div>
-</a>
+<div align="center">
+  <a href="https://github.com/Serphyus#gh-dark-mode-only">
+    <div>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
+    </div>
+  </a>
+  <a href="https://github.com/Serphyus#gh-light-mode-only">
+    <div>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>&nbsp;
+    </div>
+  </a>
+</div>
 
 ## 💻 &nbsp;Personal Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" style="height:75px"> </img>
