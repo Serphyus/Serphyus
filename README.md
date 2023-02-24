@@ -7,16 +7,16 @@
 <div align="center"></img>
   <a href="https://github.com/Serphyus#gh-dark-mode-only"></img>
     <div>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
-      <img width="20px"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>
+      <img width="30px"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>
     </div>
   </a>
   <a href="https://github.com/Serphyus#gh-light-mode-only"></img>
     <div>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>&nbsp;
-      <img width="20px"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>
+      <img width="30px"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>
     </div>
   </a>
 </div>
