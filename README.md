@@ -3,7 +3,7 @@
 - 👀 I’m interested in your ip address
 - 🔭 I’m currently looking for a good night sleep
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Stats
 <div align="center"></img>
   <a href="https://github.com/Serphyus#gh-dark-mode-only"></img>
     <div>
