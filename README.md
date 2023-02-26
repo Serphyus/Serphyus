@@ -3,8 +3,9 @@
   <li>📚 I'm currently studying cybersecurity</li>
   <li>👀 I’m interested in your ip address</li>
   <li>🔭 I’m currently looking for a good night sleep</li>
+  <li>👨‍💻 I enjoy working on backend and cybersecyrity projects</li>
 </ul>
-  
+
 <h2>💻 Personal Skills</h2>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" style="height:75px"/>
