@@ -7,9 +7,9 @@
 <div align="center"></img>
   <a href="https://github.com/Serphyus#gh-dark-mode-only"></img>
     <div>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>
-      <img width="30px"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>
+      <img width="20px"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>
     </div>
   </a>
   <a href="https://github.com/Serphyus#gh-light-mode-only"></img>
