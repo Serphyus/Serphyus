@@ -1,9 +1,11 @@
 <h2>👋 Hello, I'm Serphy</h2>
 <ul>
-  <li>📚 I'm currently studying cybersecurity</li>
-  <li>👀 I’m interested in your ip address</li>
-  <li>🔭 I’m currently looking for a good night sleep</li>
-  <li>👨‍💻 I enjoy working on backend and cybersecyrity projects</li>
+  <li>🎓 I'm currently studying cybersecurity</li>
+  <li>📚 I love working on the backend in projects</li>
+  <li>🔭 I’m currently developing a rust game engine for fun</li>
+  <li>👨🏻‍💻 Most of my projects are availible at <a href="https://github.com/Serphyus?tab=repositories">Github</a></li>
+  <li>📫 If you wish to reach me, try my <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233">linkedin</a></li>
+  <li>🌐 For more info, my website is https://serphyus.github.io/</li>
 </ul>
 
 <h2>💻 Personal Skills</h2>
