@@ -1,6 +1,6 @@
 <h2>👋 Hello, I'm Serphy</h2>
 <ul>
-  <li>👋 My name is Sigurd Pettersen</li>
+  <li>📚 I'm currently studying cybersecurity</li>
   <li>👀 I’m interested in your ip address</li>
   <li>🔭 I’m currently looking for a good night sleep</li>
 </ul>
