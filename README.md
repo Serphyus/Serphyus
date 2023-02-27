@@ -1,5 +1,6 @@
 <h2>👋 Hello, I'm <a href="https://serphyus.github.io">Serphy</a></h2>
-<img align="right" height="230px" src="assets/developer.gif"/>
+<img align="right" width="5px" height="1px"/>
+<img align="right" height="220px" src="assets/developer.gif"/>
 <ul>
   <li>🎓 I'm currently studying cybersecurity</li>
   <li>📚 I love working on the backend in projects</li>
@@ -7,9 +8,8 @@
   <li>👨🏻‍💻 Most of my projects are availible at <a href="https://github.com/Serphyus?tab=repositories">Github</a></li>
   <li>🌐 For more info, my website is https://serphyus.github.io/</li>
 </ul>
-<h3>🔍 Where to find me</h3>
 <div>
-  <img width="10px"/>
+  <img width="90px"/>
   <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233"><img height="50px" alt="linkedin" src="assets/linkedin.svg"/></a>
   <img width="10px"/>
   <a href="https://twitter.com/serphyus"><img alt="twitter" height="50px" src="assets/twitter.svg"/></a>
