@@ -8,15 +8,40 @@
   <li>👨🏻‍💻 Most of my projects are availible at <a href="https://github.com/Serphyus?tab=repositories">Github</a></li>
   <li>🌐 For more info, my website is https://serphyus.github.io/</li>
 </ul>
+
 <div>
-  <img width="75px"/>
-  <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233"><img height="50px" alt="linkedin" src="assets/linkedin.svg"/></a>
+  <img width="55px"/>
+  <a href="mailto:serphyus@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/mail-dark-mode.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="assets/mail-light-mode.svg"/>
+      <img height="50px" alt="linkedin"/>
+    </picture>
+  </a>
   <img width="10px"/>
-  <a href="https://twitter.com/serphyus"><img alt="twitter" height="50px" src="assets/twitter.svg"/></a>
+  
+  <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233">
+    <img height="50px" alt="linkedin" src="assets/linkedin.svg"/>
+  </a>
   <img width="10px"/>
-  <a href="https://github.com/Serphyus"><img height="50px" alt="github" src="assets/github-dark-mode.svg"/></a>
+  
+  <a href="https://twitter.com/serphyus">
+    <img alt="twitter" height="50px" src="assets/twitter.svg"/>
+  </a>
   <img width="10px"/>
-  <a href="https://pypi.org/user/serphyus/"><img height="50px" alt="pypi" src="assets/pypi.svg"/></a>
+  
+  <a href="https://github.com/Serphyus#gh-dark-mode-only">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark-mode.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="assets/github-light-mode.svg"/>
+      <img height="50px" alt="github"/>
+    </picture>
+  </a>
+  <img width="10px"/>
+  
+  <a href="https://pypi.org/user/serphyus/">
+    <img height="50px" alt="pypi" src="assets/pypi.svg"/>
+  </a>
 </div>
 
 <h2>💻 Personal Skills</h2>
@@ -42,18 +67,15 @@
 
 <h2>⚙️ GitHub Stats</h2>
 <div align="center"></img>
-  <a href="https://github.com/Serphyus#gh-dark-mode-only">
-    <div>
-      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>
-      <img width="20px"/>
-      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>
-    </div>
-  </a>
-  <a href="https://github.com/Serphyus#gh-light-mode-only">
-    <div>
-      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>
-      <img width="20px"/>
-      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact"/>
-    </div>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>
+    <img height="190em">
+  </picture>
+  <img width="20px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact">
+    <img height="190em">
+  </picture>
 </div>
