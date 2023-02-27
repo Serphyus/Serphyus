@@ -10,7 +10,7 @@
 </ul>
 
 <div>
-  <img width="55px"/>
+  <img width="35px"/>
   <a href="mailto:serphyus@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/mail-dark-mode.svg"/>
