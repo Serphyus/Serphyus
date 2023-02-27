@@ -14,6 +14,8 @@
   <img width="10px"/>
   <a href="https://twitter.com/serphyus"><img alt="twitter" height="50px" src="assets/twitter.svg"/></a>
   <img width="10px"/>
+  <a href="https://github.com/Serphyus"><img height="50px" alt="github" src="assets/github.svg"/></a>
+  <img width="10px"/>
   <a href="https://pypi.org/user/serphyus/"><img height="50px" alt="pypi" src="assets/pypi.svg"/></a>
 </div>
 
