@@ -14,7 +14,7 @@
   <img width="10px"/>
   <a href="https://twitter.com/serphyus"><img alt="twitter" height="50px" src="assets/twitter.svg"/></a>
   <img width="10px"/>
-  <a href="https://github.com/Serphyus"><img height="50px" alt="github" src="assets/github.svg"/></a>
+  <a href="https://github.com/Serphyus"><img height="50px" alt="github" src="assets/github-dark-mode.svg"/></a>
   <img width="10px"/>
   <a href="https://pypi.org/user/serphyus/"><img height="50px" alt="pypi" src="assets/pypi.svg"/></a>
 </div>
@@ -42,14 +42,14 @@
 
 <h2>⚙️ GitHub Stats</h2>
 <div align="center"></img>
-  <a href="https://github.com/Serphyus#gh-dark-mode-only"></img>
+  <a href="https://github.com/Serphyus#gh-dark-mode-only">
     <div>
       <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>
       <img width="20px"/>
       <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>
     </div>
   </a>
-  <a href="https://github.com/Serphyus#gh-light-mode-only"></img>
+  <a href="https://github.com/Serphyus#gh-light-mode-only">
     <div>
       <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>
       <img width="20px"/>
