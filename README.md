@@ -1,6 +1,6 @@
 <h2>👋 Hello, I'm <a href="https://serphyus.github.io">Serphy</a></h2>
 <img align="right" width="5px" height="1px"/>
-<img align="right" height="220px" src="assets/developer.gif"/>
+<img align="right" height="200px" src="assets/developer.gif"/>
 <ul>
   <li>🎓 I'm currently studying cybersecurity</li>
   <li>📚 I love working on the backend in projects</li>
