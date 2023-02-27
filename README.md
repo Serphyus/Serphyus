@@ -30,7 +30,7 @@
   </a>
   <img width="10px"/>
   
-  <a href="https://github.com/Serphyus#gh-dark-mode-only">
+  <a href="https://github.com/Serphyus">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark-mode.svg"/>
       <source media="(prefers-color-scheme: light)" srcset="assets/github-light-mode.svg"/>
