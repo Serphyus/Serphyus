@@ -11,7 +11,7 @@
 </ul>
 
 <h2>💻 Personal Skills</h2>
-<div>
+<div align="center">
   <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"/>
   <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-plain.svg"/>
   <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg"/>
