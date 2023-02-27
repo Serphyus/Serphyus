@@ -8,7 +8,7 @@
   <li>👨🏻‍💻 Most of my projects are availible at <a href="https://github.com/Serphyus?tab=repositories">Github</a></li>
   <li>🌐 For more info, my website is https://serphyus.github.io/</li>
 </ul>
-<h2>🔍 Where to find me</h2>
+<h3>🔍 Where to find me</h3>
 <div>
   <img width="10px"/>
   <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233"><img height="50px" alt="linkedin" src="assets/linkedin.svg"/></a>
