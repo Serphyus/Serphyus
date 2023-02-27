@@ -1,5 +1,4 @@
 <h2>👋 Hello, I'm <a href="https://serphyus.github.io">Serphy</a></h2>
-<img align="right" width="8px" height="1px"/> 
 <img align="right" height="230px" src="assets/developer.gif"/>
 <ul>
   <li>🎓 I'm currently studying cybersecurity</li>
