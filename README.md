@@ -9,7 +9,7 @@
   <li>🌐 For more info, my website is https://serphyus.github.io/</li>
 </ul>
 <div>
-  <img width="90px"/>
+  <img width="75px"/>
   <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233"><img height="50px" alt="linkedin" src="assets/linkedin.svg"/></a>
   <img width="10px"/>
   <a href="https://twitter.com/serphyus"><img alt="twitter" height="50px" src="assets/twitter.svg"/></a>
