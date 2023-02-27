@@ -1,14 +1,22 @@
 <h2>👋 Hello, I'm <a href="https://serphyus.github.io">Serphy</a></h2>
 <img align="right" width="8px" height="1px"/> 
-<img align="right" height="160px" src="assets/developer.gif"/>
+<img align="right" height="230px" src="assets/developer.gif"/>
 <ul>
   <li>🎓 I'm currently studying cybersecurity</li>
   <li>📚 I love working on the backend in projects</li>
   <li>🔭 I’m currently developing a rust game engine for fun</li>
   <li>👨🏻‍💻 Most of my projects are availible at <a href="https://github.com/Serphyus?tab=repositories">Github</a></li>
-  <li>📫 If you wish to reach me, try my <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233">linkedin</a></li>
   <li>🌐 For more info, my website is https://serphyus.github.io/</li>
 </ul>
+<h2>🔍 Where to find me</h2>
+<div>
+  <img width="10px"/>
+  <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233"><img height="50px" alt="linkedin" src="assets/linkedin.svg"/></a>
+  <img width="10px"/>
+  <a href="https://twitter.com/serphyus"><img alt="twitter" height="50px" src="assets/twitter.svg"/></a>
+  <img width="10px"/>
+  <a href="https://pypi.org/user/serphyus/"><img height="50px" alt="pypi" src="assets/pypi.svg"/></a>
+</div>
 
 <h2>💻 Personal Skills</h2>
 <div align="center">
