@@ -66,7 +66,7 @@
 </div>
 
 <h2>⚙️ GitHub Stats</h2>
-<div align="center"></img>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true&border_color=414868&theme=tokyonight"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Serphyus&show_icons=true"/>
