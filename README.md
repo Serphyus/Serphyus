@@ -5,7 +5,7 @@
   <li>🎓 I'm currently studying cybersecurity</li>
   <li>📚 I love working on the backend in projects</li>
   <li>🔭 I’m currently developing a rust game engine for fun</li>
-  <li>👨🏻‍💻 Most of my projects are availible at <a href="https://github.com/Serphyus?tab=repositories">Github</a></li>
+  <li>👨🏻‍💻 Most of my projects are availible <a href="https://github.com/Serphyus?tab=repositories">Here</a></li>
   <li>🌐 For more info, my website is https://serphyus.github.io/</li>
 </ul>
 
