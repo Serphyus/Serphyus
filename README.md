@@ -10,7 +10,7 @@
 </ul>
 
 <div>
-  <img width="35px"/>
+  <img src="assets/padding.png" width="35px"/>
   <a href="mailto:serphyus@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/mail-dark-mode.svg"/>
@@ -18,17 +18,17 @@
       <img height="50px" alt="linkedin"/>
     </picture>
   </a>
-  <img width="10px"/>
+  <img src="assets/padding.png" width="10px"/>
   
   <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233">
     <img height="50px" alt="linkedin" src="assets/linkedin.svg"/>
   </a>
-  <img width="10px"/>
+  <img src="assets/padding.png" width="10px"/>
   
   <a href="https://twitter.com/serphyus">
     <img alt="twitter" height="50px" src="assets/twitter.svg"/>
   </a>
-  <img width="10px"/>
+  <img src="assets/padding.png" width="10px"/>
   
   <a href="https://github.com/Serphyus">
     <picture>
@@ -37,7 +37,7 @@
       <img height="50px" alt="github"/>
     </picture>
   </a>
-  <img width="10px"/>
+  <img src="assets/padding.png" width="10px"/>
   
   <a href="https://pypi.org/user/serphyus/">
     <img height="50px" alt="pypi" src="assets/pypi.svg"/>
@@ -72,7 +72,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api?username=Serphyus&show_icons=true"/>
     <img height="190em">
   </picture>
-  <img width="20px"/>
+  <img src="assets/padding.png" width="20px"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=Serphyus&layout=compact&border_color=414868&theme=tokyonight"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=Serphyus&layout=compact">
