@@ -1,4 +1,4 @@
-<h2>👋 Hello, I'm Serphy</a></h2>
+<h2>👋 Hello, I'm Serphy</h2>
 <img align="right" width="5px" height="1px"/>
 <img align="right" height="200px" src="assets/developer.gif"/>
 <ul>
