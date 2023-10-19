@@ -21,12 +21,20 @@
   <img src="assets/padding.png" width="10px"/>
   
   <a href="https://www.linkedin.com/in/sigurd-pettersen-a24705233">
-    <img height="50px" alt="linkedin" src="assets/linkedin.svg"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="assets/linkedin.svg"/>
+      <img height="50px" alt="linkedin"/>
+    </picture>
   </a>
   <img src="assets/padding.png" width="10px"/>
   
   <a href="https://twitter.com/serphyus">
-    <img alt="twitter" height="50px" src="assets/twitter.svg"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/twitter.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="assets/twitter.svg"/>
+      <img height="50px" alt="twitter"/>
+    </picture>
   </a>
   <img src="assets/padding.png" width="10px"/>
   
@@ -40,7 +48,11 @@
   <img src="assets/padding.png" width="10px"/>
   
   <a href="https://pypi.org/user/serphyus/">
-    <img height="50px" alt="pypi" src="assets/pypi.svg"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/pypi.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="assets/pypi.svg"/>
+      <img height="50px" alt="pypi"/>
+    </picture>
   </a>
 </div>
 
