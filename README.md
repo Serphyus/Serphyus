@@ -58,23 +58,23 @@
 
 <h2>💻 Personal Skills</h2>
 <div align="center">
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-plain.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/opengl/opengl-plain.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"/>
-  <img height="75px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"/>
-  <img height="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png"/>
+  <img height="75px" src="assets/python-original.svg"/>
+  <img height="75px" src="assets/cplusplus-plain.svg"/>
+  <img height="75px" src="assets/c-plain.svg"/>
+  <img height="75px" src="assets/java-original.svg"/>
+  <img height="75px" src="assets/rust-plain.svg"/>
+  <img height="75px" src="assets/lua-original.svg"/>
+  <img height="75px" src="assets/bash-original.svg"/>
+  <img height="75px" src="assets/javascript-original.svg"/>
+  <img height="75px" src="assets/html5-original.svg"/>
+  <img height="75px" src="assets/css3-original.svg"/>
+  <img height="75px" src="assets/mysql-original.svg"/>
+  <img height="75px" src="assets/opengl-plain.svg"/>
+  <img height="75px" src="assets/numpy-original.svg"/>
+  <img height="75px" src="assets/opencv-original.svg"/>
+  <img height="75px" src="assets/cmake-original.svg"/>
+  <img height="75px" src="assets/git-original.svg"/>
+  <img height="75px" src="assets/768px-Icons8_flat_linux.svg.png"/>
 </div>
 
 <h2>⚙️ GitHub Stats</h2>
