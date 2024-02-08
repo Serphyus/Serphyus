@@ -62,7 +62,7 @@
   <img height="75px" src="assets/cplusplus-plain.svg"/>
   <img height="75px" src="assets/c-plain.svg"/>
   <img height="75px" src="assets/java-original.svg"/>
-  <img height="75px" src="assets/rust-plain.svg"/>
+  <img height="75px" src="assets/rust-original.svg"/>
   <img height="75px" src="assets/lua-original.svg"/>
   <img height="75px" src="assets/bash-original.svg"/>
   <img height="75px" src="assets/javascript-original.svg"/>
@@ -74,7 +74,7 @@
   <img height="75px" src="assets/opencv-original.svg"/>
   <img height="75px" src="assets/cmake-original.svg"/>
   <img height="75px" src="assets/git-original.svg"/>
-  <img height="75px" src="assets/768px-Icons8_flat_linux.svg.png"/>
+  <img height="75px" src="assets/linux.png"/>
 </div>
 
 <h2>⚙️ GitHub Stats</h2>
